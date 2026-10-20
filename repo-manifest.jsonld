@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mitsuhiko/similar/commit/96993d92851eff9a484ea157614de30f80dfdc73",
       "git:hexsha": "96993d92851eff9a484ea157614de30f80dfdc73",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:47:56.288821+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mitsuhiko/similar/commit/f7f10ce781a500455405c082353cb829325b3280",

@@ -1,8 +1,8 @@
 {
-  "next_action": "done",
-  "phase_completed": "combine",
-  "commit_sha": "96993d92851eff9a484ea157614de30f80dfdc73",
-  "ts": "2026-10-20T20:47:56Z",
-  "total_triples": 161712,
-  "manifest": "/home/runner/work/forx/forx/storage/manifest.json"
+  "next_action": "ast",
+  "phase_completed": "parse",
+  "commit_sha": "e3804055b844f5d0c3cb111f5f6276f60e07459a",
+  "ts": "2026-11-22T23:30:25Z",
+  "blobs_parsed": 15,
+  "blobs_skipped": 84
 }
